@@ -1,2 +1,2 @@
-This is text 2 for test.
+This is text 2 for test.-
 Text 2
